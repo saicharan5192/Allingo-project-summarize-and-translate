@@ -1,13 +1,13 @@
 
 
-All‑Lingo: Efficient Multilingual Translation & Text Summarization
-📌 Project Overview
+**All‑Lingo: Efficient Multilingual Translation & Text Summarization**
+**📌 Project Overview**
 
 All‑Lingo is an AI‑based multilingual translation and text summarization system designed to overcome language barriers in real‑time communication. The project focuses on providing accurate, fast, and scalable translation across multiple languages, along with intelligent text summarization to reduce information overload. It is especially useful for students, researchers, travelers, and organizations that work with multilingual content.
 
 The system integrates Natural Language Processing (NLP) and Machine Learning techniques to deliver context‑aware translations and concise summaries while maintaining the original meaning of the text.
 
-🎯 Objectives
+**🎯 Objectives**
 
 To design a real‑time multilingual translation system supporting a wide range of languages.
 
@@ -17,7 +17,7 @@ To improve accessibility of information across linguistic boundaries.
 
 To ensure accuracy, scalability, and ease of use.
 
-🧠 Key Features
+**🧠 Key Features**
 
 Multilingual Translation: Translates text between multiple languages with contextual understanding.
 
@@ -29,7 +29,7 @@ User‑Friendly Interface: Simple and intuitive design for easy interaction.
 
 Scalable Architecture: Can be extended to support more languages and features.
 
-🏗️ System Architecture
+**🏗️ System Architecture**
 
 The All‑Lingo system follows a modular architecture:
 
@@ -43,7 +43,7 @@ Post‑Processing Module – Refines output for grammatical correctness.
 
 Output Layer – Displays final translated or summarized content.
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 Programming Language: Python
 
@@ -54,8 +54,7 @@ Machine Learning Models: Transformer‑based language models
 Frontend: HTML, CSS, JavaScript
 
 Backend: Flask / Django (as described in documentation)
-
-📊 Applications
+**📊 Applications**
 
 Educational platforms for multilingual learning
 
@@ -67,7 +66,7 @@ Research paper and document summarization
 
 Government and public service portals
 
-✅ Advantages
+**✅ Advantages**
 
 Reduces language barriers effectively
 
@@ -77,7 +76,7 @@ Supports global communication
 
 Improves accessibility of information
 
-⚠️ Limitations
+**⚠️ Limitations**
 
 Accuracy may vary for low‑resource languages
 
@@ -85,7 +84,7 @@ Requires quality datasets for training
 
 Internet connectivity needed for real‑time processing
 
-🔮 Future Enhancements
+**🔮 Future Enhancements**
 
 Voice‑to‑text and speech translation support
 
